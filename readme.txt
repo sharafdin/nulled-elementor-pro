@@ -4,4 +4,4 @@ Tags: page builder, editor, landing page, drag-and-drop, elementor, visual edito
 Requires at least: 6.3
 Tested up to: 6.6
 Requires PHP: 7.4
-Requires Elementor: 3.22
+Requires Elementor: 3.23
