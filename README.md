@@ -22,7 +22,7 @@ You can download the Elementor Pro Plugin version for free from the [Releases](h
 
 ### 1. Download the Plugin
 
-- **Pro Plugin**: [elementor-pro.zip](https://github.com/sharafdin/nulled-elementor-pro/releases/download/elementor-pro_v3.24.4/elementor-pro_v3.24.4.zip)
+- **Pro Plugin**: [elementor-pro.zip](https://github.com/sharafdin/nulled-elementor-pro/releases/download/elementor-pro_v3.25.0/elementor-pro_v3.25.0.zip)
 
 ### 2. Install the Plugin
 
